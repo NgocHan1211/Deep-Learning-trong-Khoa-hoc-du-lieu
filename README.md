@@ -1,6 +1,6 @@
 # Thực hành môn học: Deep Learning trong Khoa học dữ liệu
 
-Đây là đồ án cuối kỳ cho môn học "Deep Learning trong Khoa học dữ liệu" tại Trường Đại học Công nghệ Thông tin, ĐHQG-TPHCM.
+Đây là bài thực hành về các kiến trúc cho môn học "Deep Learning trong Khoa học dữ liệu" tại Trường Đại học Công nghệ Thông tin, ĐHQG-TPHCM.
 
 ## Thông tin
 
