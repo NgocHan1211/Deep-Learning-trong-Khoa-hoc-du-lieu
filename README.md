@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://www.uit.edu.vn/media/Logo_UIT_Web_6d18902c3d.png" width="160"/>
+  <img src="https://www.uit.edu.vn/media/Logo_UIT_Web_6d18902c3d.png" width="300"/>
 </div>
 
 ---
