@@ -54,11 +54,6 @@
 ### Bài 1 - LeNet
 - Xây dựng mô hình **LeNet**
 - Optimizer: **Adam**
-- Lưu ý kiến trúc:
-
-<div align="center">
-  <img src=""C:\Users\Hp X2 G3\Pictures\Screenshots\bai1.png"" width="300"/>
-</div>
 
 ### Bài 2 – GoogLeNet
 
