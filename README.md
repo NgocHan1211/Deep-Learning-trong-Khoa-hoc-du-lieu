@@ -37,8 +37,6 @@
 - Optimizer: **SGD**
 - Đánh giá kết quả trên từng chữ số (0–9)
 
-<!-- TODO: thêm ảnh kết quả bài 1 vào đây -->
-
 ### Bài 2 – 3-layer MLP + ReLU + Softmax
 
 - Kiến trúc: 3 lớp fully connected
@@ -47,13 +45,20 @@
 - Optimizer: **SGD**
 - Đánh giá kết quả trên từng chữ số (0–9)
 
-<!-- TODO: thêm ảnh kết quả bài 2 vào đây -->
-
 ---
 
 ## 🗂️ Lab 2 – Mạng Neural Tích Chập (CNN)
 
 **Độ đo đánh giá:** Precision, Recall, F1
+
+### Bài 1 - LeNet
+- Xây dựng mô hình **LeNet**
+- Optimizer: **Adam**
+- Lưu ý kiến trúc:
+
+<div align="center">
+  <img src=""C:\Users\Hp X2 G3\Pictures\Screenshots\bai1.png"" width="300"/>
+</div>
 
 ### Bài 2 – GoogLeNet
 
